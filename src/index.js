@@ -19,7 +19,7 @@ window.onload = () => {
   document.getElementById("suggest").onclick = () => {
     YaAuthSuggest.init(
       {
-         client_id: "98b7e72bbc8e4e628ed46921bf86b3b0",
+         client_id: "3b0cece8539c4bce9f0ad361535b4b91",
          response_type: "token",
          redirect_uri: "https://oauth-master-class-teal.vercel.app/token.html",
       },
