@@ -21,7 +21,7 @@ window.onload = () => {
       {
          client_id: "3b0cece8539c4bce9f0ad361535b4b91",
          response_type: "token",
-         redirect_uri: "https://oauth-master-class-teal.vercel.app/token.html"
+         redirect_uri: "https://oauth-master-class-teal.vercel.app/token.html",
       },
       "https://oauth-master-class-teal.vercel.app"
    )
